@@ -1,0 +1,18 @@
+.btn {
+  display: inline-block;
+  background: rgb(166, 190, 126);
+  color: white;
+  padding: 0.4rem 1.3rem;
+  font-size: 1rem;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 2px;
+  margin-right: 0.5rem;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.45);
+}
+.btn:hover {
+  opacity: 0.8;
+  background: black;
+}
